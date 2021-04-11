@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 My first line in project
 London is the capital of GB
 Moscow is the capital of Russia
 Paris is the capital of France
+=======
+My first line in project
+>>>>>>> parent of dc375ea (Capital added)
